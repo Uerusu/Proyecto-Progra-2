@@ -5,10 +5,10 @@ Definición de tareas:
 
 -----Antes del desarrollo:
     -Investigar cómo implementar iText para PDFs. (David)
-    -Investigar cómo utilizar Javadoc. (Saúl)
-    -Exportar las librerías para el envío de correos y cualquier otra necesaria. (Saúl)
-    -Implementar Netbeans con Github. (Saúl)
-    -Agregar los tasks en Github. (Saúl)
+    -Investigar cómo utilizar Javadoc. (Saúl) ☑
+    -Exportar las librerías para el envío de correos y cualquier otra necesaria. (Saúl) ☑
+    -Implementar Netbeans con Github. (Saúl) ☑
+    -Agregar los tasks en Github. (Saúl) ☑
 
 Arquitectura por Capas:
 
