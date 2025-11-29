@@ -13,7 +13,7 @@ Definición de tareas:
 Arquitectura por Capas:
 
 -----Presentación:
-    -Login (autenticarse con el archivo usuarios). (Edward)
+    -Login (autenticarse con el archivo usuarios). (Edward)☑
     -Gestión de empleados (Solo lo ve el patrono). (Saúl)
     -Formularios de nóminas (Uno para el patrono y otro para el empleado). (David) ☑Formulario del patrono/
     -Agregar acciones básicas en la interfaz (Modificar, generar reporte, eliminar, agregar, enviar correo). (Saúl y Edward)
