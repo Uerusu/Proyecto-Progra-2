@@ -1,6 +1,0 @@
-0,Bryan,Vega,Rondon,vegabryan@gmail.com,bvega,123
-0,Bryan,Vega,Rondon,vegabryan@gmail.com,bvega,123
-1,Juan,Peres,Alvarado,juan@correo.com,juan,123
-2,Juan,Peres,Alvarado,juan@correo.com,juan,123
-10,julio,ramirez,vega,kiki.com,root,1234,
-16,Jean,Alfaro,murillo,alfa09.com,jean,carlo
