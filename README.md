@@ -14,14 +14,14 @@ Arquitectura por Capas:
 
 -----Presentación:
     -Login (autenticarse con el archivo usuarios). (Edward)☑
-    -Gestión de empleados (Solo lo ve el patrono). (Saúl)
+    -Gestión de empleados (Solo lo ve el patrono). (Saúl)☑
     -Formularios de nóminas (Uno para el patrono y otro para el empleado). (David) ☑Formulario del patrono/
-    -Agregar acciones básicas en la interfaz (Modificar, generar reporte, eliminar, agregar, enviar correo). (Saúl y Edward)
+    -Agregar acciones básicas en la interfaz (Modificar, generar reporte, eliminar, agregar, enviar correo). (Saúl y Edward)☑
 
 -----Lógica de negocio:
     -Crear las clases para el cálculo de nómina y agregar los métodos de cálculos (agregar lógica de tarea 2). (David)☑
     -Utilizar clases abstractas (polimorfismo). (Edward)
-    -Comportamientos comúnes de las clases. (Saúl)
+    -Comportamientos comúnes de las clases. (Saúl)☑
 
 -----Entidades: (David)☑
     -Definir clases importantes. 
@@ -34,11 +34,11 @@ Arquitectura por Capas:
     -Excepciones personalizadas. (Saúl)
     -Verificar deducciones para nóminas. (Edward)
     -Generar reportes para empleado y patrono. (David)
-    -Enviar correos electrónicos. (Saúl)
-    -Implementar las bitácoras. (Saúl)
+    -Enviar correos electrónicos. (Saúl)☑
+    -Implementar las bitácoras. (Edward)☑
 
 -----Documentación:
-    -Implementar Javadoc. (Saúl)
+    -Implementar Javadoc. (Saúl)☑
     -Manual de usuario. (Edward)
-    -Guía técnica (detallada). (Saúl y David)
+    -Guía técnica (detallada). (Saúl y David)☑
     -Actualizar las bitácoras del trabajo grupal. (Edward)
