@@ -33,12 +33,13 @@ Arquitectura por Capas:
 -----Funcionalidades:
     -Excepciones personalizadas. (Saúl)
     -Verificar deducciones para nóminas. (Edward)
-    -Generar reportes para empleado y patrono. (David)
+    -Generar reportes para empleado y patrono. (David)☑
     -Enviar correos electrónicos. (Saúl)
     -Implementar las bitácoras. (Saúl)
 
 -----Documentación:
     -Implementar Javadoc. (Saúl)
     -Manual de usuario. (Edward)
-    -Guía técnica (detallada). (Saúl y David)
+    -Guía técnica (detallada). (Saúl y David)☑
     -Actualizar las bitácoras del trabajo grupal. (Edward)
+    -Desarrollo de presentación y UML (Saúl y David)☑
