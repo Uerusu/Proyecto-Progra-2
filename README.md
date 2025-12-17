@@ -20,7 +20,7 @@ Arquitectura por Capas:
 
 -----Lógica de negocio:
     -Crear las clases para el cálculo de nómina y agregar los métodos de cálculos (agregar lógica de tarea 2). (David)☑
-    -Utilizar clases abstractas (polimorfismo). (Edward)
+    -Utilizar clases abstractas (polimorfismo). (Edward)☑
     -Comportamientos comúnes de las clases. (Saúl) ☑
 
 -----Entidades: (David)☑
@@ -31,20 +31,20 @@ Arquitectura por Capas:
     -Crear archivos: usuarios, empleados, idcontrol.☑
 
 -----Funcionalidades:
-    -Excepciones personalizadas. (Saúl)
-    -Verificar deducciones para nóminas. (Edward)
+    -Excepciones personalizadas. (Saúl)☑
+    -Verificar deducciones para nóminas. (Edward)☑
     -Generar reportes para empleado y patrono. (David)☑
-    -Enviar correos electrónicos. (Saúl)
-    -Implementar las bitácoras. (Saúl)
-    -Excepciones personalizadas. (Saúl) 
+    -Enviar correos electrónicos. (Saúl)☑
+    -Implementar las bitácoras. (Saúl)☑
+    -Excepciones personalizadas. (Saúl)☑
     -Verificar deducciones para nóminas. (Edward) ☑
     -Generar reportes para empleado y patrono. (David) ☑
     -Enviar correos electrónicos. (Saúl) ☑
     -Implementar las bitácoras. (Edward) ☑
 
 -----Documentación:
-    -Implementar Javadoc. (Saúl)
-    -Manual de usuario. (Edward)
+    -Implementar Javadoc. (Saúl)☑
+    -Manual de usuario. (Edward)☑
     -Guía técnica (detallada). (Saúl y David)☑
-    -Actualizar las bitácoras del trabajo grupal. (Edward)
+    -Actualizar las bitácoras del trabajo grupal. (Edward)☑
     -Desarrollo de presentación y UML (Saúl y David)☑
